@@ -1,3 +1,4 @@
+![Description](dmi_logo.png)
 # Deadlock Mod Installer (DMI)
 
 A convenient mod installer for Deadlock game.
