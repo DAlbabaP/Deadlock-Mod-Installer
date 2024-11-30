@@ -35,5 +35,4 @@ All existing mods in the folder will be deleted and replaced with newly selected
 
 Created by qalebabaq with help from the Deadlock mod community
 - Steam: qalebabap
-- Discord server: 3MSG6zuQ
 - Special thanks to 𒉭 Огр for his skin guide on Steam
