@@ -24,7 +24,7 @@ A convenient mod installer for Deadlock game.
 ## Additional Features
 
 - "Apply English Names" - changes character and item names to English
-- "Restore Original Names" - restores original character names
+- "Restore Original Names" - restores original names
 
 ## ⚠️ Important!
 
