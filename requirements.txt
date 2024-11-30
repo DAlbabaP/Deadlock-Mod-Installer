@@ -1,0 +1,2 @@
+pillow>=9.5.0  # For image handling in tooltips
+pyinstaller>=5.13.0  # For creating standalone executables
